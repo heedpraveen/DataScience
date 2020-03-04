@@ -1,0 +1,7 @@
+This data has 5 sentiment labels:
+
+0 - negative 1 - somewhat negative 2 - neutral 3 - somewhat positive 4 - positive
+
+Here, you can build a model to classify the type of cultivar. The dataset is available on Kaggle. 
+
+You can download it from the following link: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
