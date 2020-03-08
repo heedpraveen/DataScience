@@ -1,3 +1,5 @@
+Classify the sentiment of sentences from the Rotten Tomatoes dataset
+
 This data has 5 sentiment labels:
 
 0 - negative 1 - somewhat negative 2 - neutral 3 - somewhat positive 4 - positive
