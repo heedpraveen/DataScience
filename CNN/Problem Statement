@@ -1,0 +1,17 @@
+In this notebook, we're going to build a convolutional neural network for recognizing handwritten digits from scratch. 
+By from scratch, I mean without using tensorflow's almighty neural network functions like tf.nn.conv2d. This way, you'll 
+be able to uncover the blackbox and understand how CNN works more clearly. We'll use tensorflow interactively, so you can 
+check the intermediate results along the way. This will also help your understanding.
+
+Outline
+Here are some functions we will implement from scratch in this notebook.
+
+Convolutional layer
+ReLU
+Max Pooling
+Affine layer (Fully connected layer)
+Softmax
+Cross entropy error
+
+
+Using handwritten dataset will identifythe digit Using Machine learning technique CNN
