@@ -1,0 +1,7 @@
+We're going to be using a recurrent neural network to model binary addition.
+binary addition moves from right to left, where we try to predict the number beneath the line given the numbers above the line. 
+We want the neural network to move along the binary sequences and remember when it has carried the 1 and when it hasn't, 
+so that it can make the correct prediction. Don't get too caught up in the problem. The network actually doesn't care too much. 
+Just recognize that we're going to have two inputs at each time step, (either a one or a zero from each number begin added). 
+These two inputs will be propagated to the hidden layer, which will have to remember whether or not we carry. The prediction will 
+take all of this information into account to predict the correct bit at the given position (time step).
