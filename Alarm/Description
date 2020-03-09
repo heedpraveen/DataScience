@@ -1,0 +1,6 @@
+I am writing a python code for implementing an alarm clock. I have to set time whatever I want in any format and at that 
+particular time program will pick a random sound I downloaded. 
+
+LIBRARIES USED:
+    DateTime
+    winsound - For playing .wav file
