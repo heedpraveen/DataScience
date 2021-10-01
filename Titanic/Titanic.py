@@ -7,7 +7,7 @@ Load the train and test dataset and set the index if applicable
 
 Visually inspect the head of the dataset,Examine the train dataset to understand in particular if the data is tidy, shape of the dataset,examine datatypes, examine missing values, unique counts and build a data dictictionary dataframe
 
-Run discriptive statistics of object and numerical datatypes, and finally transform datatypes accordingly
+Run descriptive statistics of object and numerical datatypes, and finally transform datatypes accordingly
 
 Carry-out univariate,bivariate and multivariate analysis using graphical and non graphical(some numbers represting the data) mediums
 
